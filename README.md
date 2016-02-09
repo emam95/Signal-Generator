@@ -1,2 +1,2 @@
 # Signal-Generator
-a signal generator in matlab
+A signal generator written in matlab which concatenates signals and plot them.
